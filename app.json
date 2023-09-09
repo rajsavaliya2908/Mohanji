@@ -1,0 +1,33 @@
+{
+  "name": "rn_mohanjiapp",
+  "displayName": "Mohanji",
+  "expo": {
+    "orientation": "portrait",
+    "icon": "./assets/images/mohanji-icon.png",
+    "userInterfaceStyle": "automatic",
+    "scheme": "mohanji-app",
+    "plugins": ["expo-apple-authentication"],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mohanji.mmap",
+      "buildNumber": "49",
+      "userInterfaceStyle": "automatic",
+      "usesAppleSignIn": true
+    },
+    "android": {
+      "package": "com.mohanji.mmap",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 62,
+      "userInterfaceStyle": "automatic",
+      "useNextNotificationsApi": true,
+      "permissions": ["POST_NOTIFICATIONS", "RECEIVE_BOOT_COMPLETED "]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

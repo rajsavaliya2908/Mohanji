@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35614476491",
+    "project_id": "mohanji-377513",
+    "storage_bucket": "mohanji-377513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35614476491:android:40e7c73249777eaf5bf34e",
+        "android_client_info": {
+          "package_name": "com.mohanji.mmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35614476491-a0frolldqkhk3dot3ocs6sn6jdvc67o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPsE_99NSXpxleCyTyDiHK5VtHNDOv3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35614476491-a0frolldqkhk3dot3ocs6sn6jdvc67o6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35614476491-fm0bhigqufhukiqla1od3jm7gs7788ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohanji.mmap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
